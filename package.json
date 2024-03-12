@@ -1,0 +1,19 @@
+{
+  "name": "tea-qaq",
+  "version": "1.0.0",
+  "description": "this is why we play",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TianXiao59/tea-qaq.git"
+  },
+  "author": "ltx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TianXiao59/tea-qaq/issues"
+  },
+  "homepage": "https://github.com/TianXiao59/tea-qaq#readme"
+}
